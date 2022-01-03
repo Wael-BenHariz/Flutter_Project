@@ -1,0 +1,34 @@
+{
+    "files.exclude": {
+        "**/*.[Tt][Uu][Oo]": true,
+        "**/*.[Pp][Uu][Oo]": true,
+        "**/*.[Ff][Uu][Oo]": true,
+        "**/*.[Ff][Uu][Ll]": true,
+        "**/*.[Ff][Uu][Dd]": true,
+        "**/*.[Ss][Vv][Ll]": true,
+        "**/*.[Ss][Vv][Dd]": true,
+        "**/*.[Ii][Ss][Ll]": true,
+        "**/*.[Ii][Tt]": true
+    },
+    "[iec_src]": {
+        "files.encoding": "windows1252"
+    },
+    "[iec_sv]": {
+        "files.encoding": "windows1252"
+    },
+    "[iec_fu]": {
+        "files.encoding": "windows1252"
+    },
+    "[iec_helper]": {
+        "files.encoding": "windows1252"
+    },
+    "[iec_prj]": {
+        "files.encoding": "windows1252"
+    },
+    "[ini]": {
+        "files.encoding": "windows1252"
+    },
+    "search.exclude": {
+        "**/.vscode": true
+    }
+}
